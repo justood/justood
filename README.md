@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Justivon Dado
 
-<!--
-**justood/justood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional transitioning into cybersecurity with hands-on
+experience in automotive manufacturing environments. Graduating August
+2026 with a B.S. in Information Technology (Cybersecurity focus).
 
-Here are some ideas to get you started:
+## Currently
+- Building toward a **SOC Analyst I** role
+- Working through a structured cybersecurity learning roadmap
+- Studying for **CompTIA Security+ SY0-701**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+Security: Wireshark · Nmap · Metasploit · Burp Suite · Kali Linux  
+Languages: Python · Bash  
+Cloud: AWS (Lambda, S3, API Gateway, Step Functions)  
+Platforms: TryHackMe · Hack The Box · PortSwigger Academy
+
+## Featured Projects
+security-log-parser — Python auth log analyzer  
+web-vuln-findings  — OWASP vulnerability write-ups  
+pentest-report-htb — Professional pentest report
+
+## Connect
+[LinkedIn](https://linkedin.com/in/justivon-dado-0b284a235)  
+Location: Sterling Heights, MI
